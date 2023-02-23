@@ -4,7 +4,7 @@ author:
   name: 강 상호
   link: https://github.com/kw-sangho
 date: 2022-02-23 16:51:00 +0900
-categories: [calibration]
+categories:  [computervision, calibration]
 tags: []
 ---
 
