@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "coordinates"
+---
+
 ### 좌표계(coordinate system)
 좌표계는 2D와3D좌표계가 존재한다.
 
