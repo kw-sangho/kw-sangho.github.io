@@ -11,7 +11,7 @@ title:  "coordinates"
 
 위의 좌표계들은 영상기하학 에서 사용 하는 4개의 좌표계이다. (camera_geometry의 자세한 내용은 다음 글에서 이어진다)    
 
-![cordn](/assets/im/cordn.png)
+![slide1](/assets/img/cordn.png)
 
 #### 1) 월드 좌표계(World Coordinate System)
 우리가 살고 있는 공간의 한 지점을 기준으로 한 좌표계로 우리가 평소에 쓰던 좌표계라고 생각하면 된다.   
