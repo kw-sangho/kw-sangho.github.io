@@ -18,7 +18,7 @@ tags: []
 
 ![slide1](/assets/img/intrinsicparameter.png)
 
-#### 1)Focal Length(초점거리)
+#### 1) Focal Length(초점거리)
 
 ![slide2](/assets/img/foclalength.png)
 
@@ -39,7 +39,7 @@ Image sensor의 각 cell은 Image plane의 각 pixel와 대응됨
 
 이미지센서의 cell 크기가 0.1 mm 이고, f (focal length)가 100(pixel) 이면, 이미지평면에서 각 pixel의 물리적 크기는 10 cm 입니다.
 
-#### 2)Principal point(주점)
+#### 2) Principal point(주점)
 
 카메라 렌즈 중심에서 이미지 센서로 내린 수선의 발의 영상좌표 (정확하다면 이미지 센서의 중심이어야 함 / 단위는 Pixel)
 
@@ -49,7 +49,7 @@ Image sensor의 각 cell은 Image plane의 각 pixel와 대응됨
 
  
 
-#### 3)Skew coefficient(비대칭 계수)
+#### 3) Skew coefficient(비대칭 계수)
 
 이미지 센서의 cell array의 y축이 기울어진 정도
 
