@@ -1,3 +1,13 @@
+---
+title:  "calibration: Intrinsic parameter"
+author:
+  name: 강 상호
+  link: https://github.com/kw-sangho
+date: 2023-03-06 15:40:00 +0900
+categories:  [computervision, calibration]
+tags: []
+---
+
 #### Intrinsic parameters
 
 카메라의 내부 파라미터로는 다음과 같은 것들이 있습니다.  
