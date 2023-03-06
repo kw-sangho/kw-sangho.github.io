@@ -16,11 +16,11 @@ tags: []
 주점(principal point): cx, cy  
 비대칭계수(skew coefficient): skew_c = tanα  
 
-![intrinsicparameter.png](attachment:intrinsicparameter.png)
+![slide1](/assets/img/intrinsicparameter.png)
 
 #### Focal Length(초점거리)
 
-![foclalength.png](attachment:foclalength.png)
+![slide2](/assets/img/foclalength.png)
 
 초점거리란 렌즈중심에서 이미지 센서(CCD, CMOS etc)까지의 거리이다.  
 일반적으로 디지털 카메라 등에서 초점거리는 mm 단위로 표현되지만,    
